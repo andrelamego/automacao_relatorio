@@ -7,8 +7,8 @@ Ele lê os dados, calcula estatísticas e gera um gráfico automaticamente.
 
 ## Funcionalidades
 - Leitura de planilha Excel
-- Cálculo de total e ticket médio
-- Identificação da linha de produto mais vendido
+- Cálculo de total de vendas por produto
+- Identificação do codigo do produto mais vendido
 - Geração de gráfico e relatório PDF automático
 
 ---
